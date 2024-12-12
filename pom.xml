@@ -43,6 +43,8 @@
                 <configuration>
                     <encoding>UTF-8</encoding>
                     <compilerArgument>-Xlint:unchecked</compilerArgument>
+                    <source>9</source>
+                    <target>9</target>
                 </configuration>
             </plugin>
             <plugin>
